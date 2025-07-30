@@ -3,22 +3,22 @@
     {
       "text": "Welcome to Home!",
       "button_link": "https://example.com/home",
-      "image": "https://i.imgur.com/9Siee7h.jpeg"
+      "image": "https://github.com/kiran32573/newgame/blob/main/30.png?raw=true"
     },
     {
       "text": "Learn some tips here!",
       "button_link": "https://example.com/tips",
-      "image": "https://i.imgur.com/eAaBSt0.jpeg"
+      "image": "https://github.com/kiran32573/newgame/blob/main/35.png?raw=true"
     },
     {
       "text": "Check your history.",
       "button_link": "https://example.com/history",
-      "image": "https://i.imgur.com/DPrCTnz.jpeg"
+      "image": "https://github.com/kiran32573/newgame/blob/main/45.png?raw=true"
     },
     {
       "text": "Play responsibly.",
       "button_link": "https://example.com/responsible",
-      "image": "https://i.imgur.com/duPhcEf.png"
+      "image": "https://github.com/kiran32573/newgame/blob/main/Banner.png?raw=true"
     }
   ]
 }
