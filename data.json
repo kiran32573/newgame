@@ -1,0 +1,24 @@
+{
+  "tabs": [
+    {
+      "text": "Welcome to Home!",
+      "button_link": "https://example.com/home",
+      "image": "https://example.com/image1.png"
+    },
+    {
+      "text": "Learn some tips here!",
+      "button_link": "https://example.com/tips",
+      "image": "https://example.com/image2.png"
+    },
+    {
+      "text": "Check your history.",
+      "button_link": "https://example.com/history",
+      "image": "https://example.com/image3.png"
+    },
+    {
+      "text": "Play responsibly.",
+      "button_link": "https://example.com/responsible",
+      "image": "https://example.com/image4.png"
+    }
+  ]
+}
