@@ -3,7 +3,7 @@
     {
       "text": "♟️ Welcome to the World of Chess!\n\nChess ek ancient aur intelligent board game hai jo duniya bhar me khela jaata hai. Ye game aapke dimaag ko tez banata hai, planning aur patience sikhata hai.\n\nAaiye, is game ke rules, history aur smart tips ko jaane, aur smartly play karna sikhe!",
       "button_link": "https://www.chess.com",
-      "image": "https://github.com/kiran32573/newgame/blob/main/image%202%20(1).png?raw=true"
+      "image": "https://github.com/kiran32573/newgame/blob/main/homepageimage.png?raw=true"
     },
     {
       "text": "🎯 Chess Rules & Winning Tips\n\n- Board Layout: 8x8 squares, alternating colors\n- Pieces: King, Queen, Rook, Bishop, Knight, Pawn\n- Goal: Opponent ke King ko \"Checkmate\" karna\n\n✅ Tips:\n✔ Opening me center control karo\n✔ Queen ko jaldi mat nikaalo\n✔ King ko early castling se safe rakho\n✔ Opponent ki moves ka dhyan rakho\n✔ Practice daily!",
@@ -22,3 +22,4 @@
     }
   ]
 }
+
