@@ -1,5 +1,6 @@
 {
-  "start_button_action": "scene",
-  "scene_path": "res://control.tscn",
-  "url": "https://example.com"
+  "button_text": "Start Game",
+  "button_color": "#ff8800",
+  "button_action": "load_scene",
+  "scene_path": "res://control.tscn"
 }
