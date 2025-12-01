@@ -1,6 +1,7 @@
 {
-    "button_text": "Go to Website",
+    "button_text": "Start",
     "button_color": "#ff0000",
     "button_action": "open_url",
-    "open_url": "https://google.com"
+    "open_url": "res://control.tscn"
 }
+
