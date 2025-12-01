@@ -1,6 +1,5 @@
 {
-    "button_text": "Go to Website",
-    "button_color": "#ff0000",
-    "button_action": "open_url",
-    "open_url": "https://google.com"
+  "button_text": "Close Window",
+  "button_color": "#ff8800",
+  "button_action": "hide"
 }
