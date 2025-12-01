@@ -1,0 +1,5 @@
+{
+  "button_text": "Close Window",
+  "button_color": "#ff8800",
+  "button_action": "hide"
+}
